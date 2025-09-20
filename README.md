@@ -6,4 +6,4 @@ This project explores data from NASA’s Astronomy Picture of the Day (APOD) API
 - Access NASA's APOD API and retrieve image data over a specified time period.  
 - Explore the dataset to identify trends in topics, media types, and image descriptions.  
 - Practice using Python libraries for data manipulation and visualization.  
-- Build a foundation for a portfolio project in data science with space-related data.
+- Build a foundation for a portfolio project in data science with NASA APOD data.
